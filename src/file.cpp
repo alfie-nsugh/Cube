@@ -38,6 +38,7 @@
 #include <pcl/common/distances.h>
 #include <pcl/filters/filter.h>
 #include <pcl/filters/voxel_grid.h>
+#include <pcl/common/common.h> // added for getMaxDistance
 
 #include <fstream>
 

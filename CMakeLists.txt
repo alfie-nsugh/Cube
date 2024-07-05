@@ -8,6 +8,10 @@ set(CMAKE_MODULE_PATH
 )
 
 
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+
+
 #########################################################
 # FIND GLFW
 #########################################################
